@@ -54,3 +54,5 @@ function draw() {
 
       circuloY[contador] = random(height);
     }
+  }
+}
